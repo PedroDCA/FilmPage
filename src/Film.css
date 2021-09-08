@@ -1,0 +1,72 @@
+.filmPage{
+    background-color: aliceblue;
+    display: inline-grid;
+    grid-template-columns: 30% 55%;
+    width: 100%;
+    column-gap: 30px;
+}
+
+.film{
+    border: solid black 2px;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.filmsCollected{
+    overflow-y: scroll;
+    height: 970px;
+}
+.addFilms{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 5%;
+}
+
+.image{
+    border: solid black 3px;
+    height: 60px;
+    width: 60px;
+}
+
+.name{
+    padding-left: 10px;
+    padding-top: 20px;
+    width: 300px;
+}
+
+.ranking{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+}
+
+.upper{
+    display: flex;
+    flex-direction: row;
+}
+
+.image-description{
+    border: solid black 2px;
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.name-description{
+    margin-top: 130px;
+    margin-left: 150px;
+}
+
+.lower{
+    margin-top: 80px;
+}
