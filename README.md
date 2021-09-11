@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project was made by myself when I learned about Javascript and React during 2020 and I started this project because I read this project idea on internet in that moment. It is a website where the films of The Movie Database (https://www.themoviedb.org/) are shown on a list and you can see the additional information of each one if you click on the film. Also, you can show more films if you click on the upper botton called "Add new films". At this moment, this project works correctly on Google Chrome at 1080p resolution.
+This project was made by myself when I learned about Javascript and React during 2020 and I started this project because I read this project idea on internet in that moment. It is a website where the films of The Movie Database (https://www.themoviedb.org/) are shown on a list and you can see the additional information of each one if you click on the film. Also, you can show more films if you scroll down (Using inifinite scrolling). At this moment, this project works correctly on Google Chrome at 1080p resolution.
 
 
 
