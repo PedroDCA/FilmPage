@@ -17,7 +17,7 @@
 }
 .filmsCollected{
     overflow-y: scroll;
-    height: 970px;
+    height: 870px;
 }
 .addFilms{
     display: block;

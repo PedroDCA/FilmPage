@@ -21,12 +21,11 @@ class Film extends React.Component {
     this.page++;
     console.log(this.page);
     Data(this.page, this.films, ()=>this.rerender());
-  }
-  
+  };
+    
   loadFilms = () => this.newFilms();
 
   rerender = ()=>this.forceUpdate();
-
 
   render(){
 
