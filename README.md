@@ -7,6 +7,10 @@ This project was made by myself when I learned about Javascript and React during
 
 In the project directory, you can run:
 
+### `npm install`
+
+Installs all the basic React files to run the project.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
